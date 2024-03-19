@@ -1,4 +1,4 @@
-http=101.132.79.113:23333,over-tls=false,fast-open=false,udp-relay=false,server_check_url=http://interface3.music.163.com,tag=网易云解锁阿里云1M
+http=music.leedsbypass.tk:23333,over-tls=false,fast-open=false,udp-relay=false,server_check_url=http://interface3.music.163.com,tag=网易云解锁阿里云1M
 http=155.248.169.205:70,over-tls=false,fast-open=false,udp-relay=false,server_check_url=http://interface3.music.163.com,tag=🎸£52•🎟XiaoMao-NeteaseMusic
 http=155.248.169.205:70,over-tls=false,fast-open=false,udp-relay=false,server_check_url=http://interface3.music.163.com,tag=🎸£37•🎟XiaoMao-NeteaseMusic
 http=155.248.169.205:70,over-tls=false, fast-open=false,udp-relay=false, server_check_url=http://interface3.music.163.com,tag=网易云5
